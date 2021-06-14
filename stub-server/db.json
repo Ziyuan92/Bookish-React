@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "name": "Refactoring",
+      "id": 1
+    },
+    {
+      "name": "Domain-driven design",
+      "id": 2
+    }
+  ]
+}
